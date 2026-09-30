@@ -1,4 +1,4 @@
-# 📊 Enterprise Sales & Business Intelligence Analytics
+# 📊 Vendas Corporativas e Análise de Business Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
